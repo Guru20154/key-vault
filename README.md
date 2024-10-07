@@ -1,4 +1,17 @@
-# Password Manager
+# Key-Vault A Password Manager
+- **Home Cloud Storage Page:** 
+![image](https://github.com/user-attachments/assets/d25d3f0b-5d2f-49b0-9638-f57d6d2ffe4e)
+
+- **Local Storage Page & Toggle Button:**
+![image](https://github.com/user-attachments/assets/63ed80c9-f879-445c-a1df-a9adf633a2ae)
+
+- **About Page:**
+![image](https://github.com/user-attachments/assets/58321787-8a38-4c48-bd5b-5ce96b5c29d5)
+
+-- **Contact Page:**
+![image](https://github.com/user-attachments/assets/bfe02a18-0114-4984-85a2-45adafd8f43e)
+
+
 
 A secure and user-friendly password manager built using **React**, **Express**, and **MongoDB**. This project allows users to store their passwords locally or in a MongoDB database with just a few clicks. It also provides features like password editing, deleting, copying to the clipboard, and toggling password visibility.
 
