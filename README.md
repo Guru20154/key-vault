@@ -54,7 +54,11 @@ Make sure MongoDB is installed and running on your local machine, or use a cloud
 
 ### Usage
 **1. Add a Password**: Fill in the website, username, and password fields and click "Save Password."
+
 **2. Edit a Password**: Click the edit icon next to the entry you want to modify.
+
 **3. Delete a Password**: Click the delete icon to remove a password.
+
 **4. Copy to Clipboard**: Use the copy icon to quickly copy the password, username, or URL.
+
 **5. Toggle Visibility**: Click the eye icon to show/hide the password.
